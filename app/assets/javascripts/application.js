@@ -18,7 +18,7 @@ var w3_close, w3_open;
 
 function w3_open() {
   $('#main').css({
-    'margin-left': '25%'
+    // 'margin-left': '25%'
   });
   $('#mySidebar').css({
     'width': '25%',
